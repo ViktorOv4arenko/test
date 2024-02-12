@@ -9,8 +9,4 @@ public class Test {
 
     }
 
-    public String getExtensionByGuava(String filename) {
-        return Files.getFileExtension(filename);
-    }
-
 }
