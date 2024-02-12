@@ -5,7 +5,7 @@ import com.google.common.io.Files;
 public class Test {
     public static void main (String[] arg) {
 
-        System.out.println("TEST1");
+        System.out.println("TEST2");
 
     }
 
